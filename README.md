@@ -2,11 +2,11 @@
 
 # Hi 👋, I'm Wenhao
 
-<img alt="github stats" src="https://pixel-profile.vercel.app/api/github-stats?username=liyinred&theme=crt&hide=rank&include_all_commits=true">
+<img alt="github stats" src="https://pixel-profile.vercel.app/api/github-stats?username=liyinred&hide=rank&include_all_commits=true&theme=crt">
 
 ---
 
-### 🛠️ 技术栈 | Tech Stack
+### Tech Stack
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -18,7 +18,7 @@
 
 ---
 
-### 📫 联系我 | Contact Me
+### Contact Me
 
 [![Email](https://img.shields.io/badge/Email-liyinred@foxmail.com-D44638?style=flat-square&logo=gmail&logoColor=white)](mailto:liyinred@foxmail.com)
 
