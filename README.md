@@ -2,7 +2,7 @@
 
 # Hi 👋, I'm Wenhao
 
-<img alt="github stats" src="https://pixel-profile.vercel.app/api/github-stats?username=liyinred&theme=crt&hide=rank&include_all_commits=true">
+<img alt="github stats" src="https://pixel-profile.vercel.app/api/github-stats?username=liyinred&theme=fuji&hide=rank&include_all_commits=true">
 
 </div>
 
@@ -14,7 +14,7 @@
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![LaTeX](https://img.shields.io/badge/LaTeX-47A141?style=for-the-badge&logo=latex&logoColor=white)
 
-### 🤖 AI Tools & Editor
+### AI Tools
 ![ChatGPT](https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
 ![Gemini](https://img.shields.io/badge/Gemini-8E75C2?style=for-the-badge&logo=googlegemini&logoColor=white)
 ![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
