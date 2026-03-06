@@ -19,7 +19,7 @@
 ![Gemini](https://img.shields.io/badge/Gemini-8E75C2?style=for-the-badge&logo=googlegemini&logoColor=white)
 ![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Antigravity](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Antigravity](https://img.shields.io/badge/Antigravity-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
 ### Contact
 [![Email](https://img.shields.io/badge/Email-liyinred@foxmail.com-D44638?style=flat-square&logo=gmail&logoColor=white)](mailto:liyinred@foxmail.com)
