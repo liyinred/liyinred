@@ -23,4 +23,4 @@
 
 ### Links
 [![Email](https://img.shields.io/badge/Email-liyinred@foxmail.com-D44638?style=flat-square&logo=gmail&logoColor=white)](mailto:liyinred@foxmail.com)
-[![Greasy Fork](https://img.shields.io/badge/Greasy%20Fork-liyinred-670000?style=flat-square\&logo=tampermonkey\&logoColor=white)](https://greasyfork.org/zh-CN/users/1612827-liyinred)
+[![Greasy Fork](https://img.shields.io/badge/Greasy%20Fork-liyinred-D44638?style=flat-square\&logo=tampermonkey\&logoColor=white)](https://greasyfork.org/zh-CN/users/1612827-liyinred)
