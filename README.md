@@ -21,5 +21,6 @@
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![Antigravity](https://img.shields.io/badge/Antigravity-121317?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
-### Contact
+### Links
 [![Email](https://img.shields.io/badge/Email-liyinred@foxmail.com-D44638?style=flat-square&logo=gmail&logoColor=white)](mailto:liyinred@foxmail.com)
+[![Greasy Fork](https://img.shields.io/badge/Greasy%20Fork-liyinred-670000?style=flat-square\&logo=tampermonkey\&logoColor=white)](https://greasyfork.org/zh-CN/users/1612827-liyinred)
