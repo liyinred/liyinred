@@ -14,12 +14,10 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-### Coding Tools
-![ChatGPT](https://img.shields.io/badge/Codex-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
+### AI Coding Tools
+![Codex](https://img.shields.io/badge/Codex-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
 ![Gemini](https://img.shields.io/badge/Gemini-8E75C2?style=for-the-badge&logo=googlegemini&logoColor=white)
 ![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Antigravity](https://img.shields.io/badge/Antigravity-121317?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
 ### Links
 [![Email](https://img.shields.io/badge/Email-liyinred@foxmail.com-D44638?style=flat-square&logo=gmail&logoColor=white)](mailto:liyinred@foxmail.com)
