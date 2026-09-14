@@ -26,13 +26,9 @@
 ### AI Coding Tools
 
 <p>
-  <img src="https://unpkg.com/@lobehub/icons-static-svg@latest/icons/openai.svg"
-       height="240"
-       alt="OpenAI Codex"
-       title="OpenAI Codex" />
+  <img src="https://unpkg.com/@lobehub/icons-static-svg@latest/icons/codex.svg" height="32" alt="Codex" title="Codex">
   &nbsp;
-  <img src="https://unpkg.com/@lobehub/icons-static-svg@latest/icons/claude.svg"
-       height="240"
-       alt="Claude"
-       title="Claude" />
+  <img src="https://unpkg.com/@lobehub/icons-static-svg@latest/icons/claude.svg" height="32" alt="Claude" title="Claude">
+  &nbsp;
+  <img src="https://unpkg.com/@lobehub/icons-static-svg@latest/icons/githubcopilot.svg" height="32" alt="VS Code" title="VS Code">
 </p>
