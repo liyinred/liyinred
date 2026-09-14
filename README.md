@@ -27,12 +27,12 @@
 
 <p>
   <img src="https://unpkg.com/@lobehub/icons-static-svg@latest/icons/openai.svg"
-       height="42"
+       height="240"
        alt="OpenAI Codex"
        title="OpenAI Codex" />
   &nbsp;
   <img src="https://unpkg.com/@lobehub/icons-static-svg@latest/icons/claude.svg"
-       height="42"
+       height="240"
        alt="Claude"
        title="Claude" />
 </p>
